@@ -9,6 +9,7 @@ exercises/*/node_modules
 exercises/*/dist
 exercises/*/.parcel-cache
 exercises/*/.package-lock.json
+.parcel-cache
 
 solutions/*/node_modules
 solutions/*/dist
